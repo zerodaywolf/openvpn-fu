@@ -1,4 +1,4 @@
-# OpenVPN configs
+# OpenVPN-fu 
 
 1. Read credentials from file:
 
